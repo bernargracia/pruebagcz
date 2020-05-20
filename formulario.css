@@ -1,0 +1,48 @@
+
+.datos{
+    text-align: center;
+    height: 25px;
+}
+
+
+
+
+a{
+   
+    color: whitesmoke;
+   
+}
+
+
+.enlace img:hover{
+   
+    transform: rotate(0deg) scale(1.1);
+}
+
+
+#blog .enlace img{
+    max-width: 290px;
+    
+}
+
+
+#blog .enlace{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+
+
+@media (max-width:834px){
+    #blog .enlace img{
+    max-width: 190px;
+    height: 150px;
+   }
+ }
+
+
+
+
+
+
