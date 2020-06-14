@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background: #111;
+    color: whitesmoke;
+   
+}
+
+
+section{
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+#carta img{
+    width: 100%;
+}
